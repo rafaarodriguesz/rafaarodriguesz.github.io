@@ -63,7 +63,7 @@
 #bio-img{
     width: 175px;
     height: 175px;
-    border-radius: 50%;
+    border-radius: 30px;
     margin-bottom: 25px;
 }
 
@@ -148,10 +148,10 @@
     flex: 1 1 0;
 }
 
-#btn-projects ion-icon{
+/* #btn-projects ion-icon{
     font-size: 20px;
     max-width: 20px;
-}
+} */
 
 #btn-projects{
     background-color:transparent;
